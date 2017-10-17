@@ -12,5 +12,8 @@ https://gitee.com/mydownload/myud-attachment/raw/master/attachment/CentOS-7-x86_
 https://gitee.com/mydownload/myud-attachment/raw/master/attachment/CentOS-7-x86_64-NetInstall-1708/CentOS-7-x86_64-NetInstall-1708.zip.005
 
 
+75acc54b5825edb96a5a843996fd578b  CentOS-7-x86_64-NetInstall-1708.iso
+
+
 5848f2fd31c7acf3811ad88eaca6f4aa  CentOS-7-x86_64-Minimal-1708.iso
 http://mirrors.aliyun.com/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1708.iso
